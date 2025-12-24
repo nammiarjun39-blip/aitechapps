@@ -1,0 +1,7 @@
+{
+  "name": "Sri Venkateswara Lodge PMS",
+  "description": "A comprehensive Property Management System for Sri Venkateswara Lodge featuring a 30-room dashboard, receptionist check-in/out, automated billing, and admin reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
